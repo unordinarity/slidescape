@@ -1,0 +1,5 @@
+{
+  "name": "slidescape",
+  "private": true,
+  "workspaces": ["packages/*"]
+}
